@@ -1,0 +1,5 @@
+{
+  "Interpreter": "CondaEnv|CondaEnv|yolov5_gpu",
+  "SuppressConfigureTestFrameworkPrompt": "true",
+  "SuppressEnvironmentCreationPrompt": true
+}
